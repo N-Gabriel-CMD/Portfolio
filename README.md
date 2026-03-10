@@ -19,21 +19,21 @@ Portfolio
 │   │       ├── Tema
 │   │       ├── Explicación
 │   │       ├── Proceso
-│   │       └── Laboratorio
+│   │       └── Laboratorios
 │   │
 │   ├── Defensive-Security
 │   │   │
 │   │   ├── Tema
 │   │   ├── Explicación
 │   │   ├── Proceso
-│   │   └── Laboratorio
+│   │   └── Laboratorios
 │   │
 │   └── Digital-Forensics
 │       │
 │       ├── Tema
 │       ├── Explicación
 │       ├── Proceso
-│       └── Laboratorio
+│       └── Laboratorios
 │
 └── README.md
 ```
