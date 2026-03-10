@@ -16,23 +16,23 @@ Portfolio
 │   ├── Offensive-Security
 │   │   └── Pentesting
 │   │       │
-│   │       ├── Tema
-│   │       ├── Explicación
-│   │       ├── Proceso
+│   │       ├── Temas
+│   │       ├── Explicaciones
+│   │       ├── Procesos
 │   │       └── Laboratorios
 │   │
 │   ├── Defensive-Security
 │   │   │
-│   │   ├── Tema
-│   │   ├── Explicación
-│   │   ├── Proceso
+│   │   ├── Temas
+│   │   ├── Explicaciones
+│   │   ├── Procesos
 │   │   └── Laboratorios
 │   │
 │   └── Digital-Forensics
 │       │
-│       ├── Tema
-│       ├── Explicación
-│       ├── Proceso
+│       ├── Temas
+│       ├── Explicaciones
+│       ├── Procesos
 │       └── Laboratorios
 │
 └── README.md
