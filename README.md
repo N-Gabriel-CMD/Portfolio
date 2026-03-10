@@ -16,26 +16,26 @@ Portfolio
 │   ├── Offensive-Security
 │   │   └── Pentesting
 │   │       │
-│   │       ├── Topic
-│   │       ├── Explanation
-│   │       ├── Process
-│   │       └── Lab
+│   │       ├── Tema
+│   │       ├── Explicación
+│   │       ├── Proceso
+│   │       └── Laboratorio
 │   │
 │   ├── Defensive-Security
 │   │   │
-│   │   ├── Topic
-│   │   ├── Explanation
-│   │   ├── Process
-│   │   └── Lab
+│   │   ├── Tema
+│   │   ├── Explicación
+│   │   ├── Proceso
+│   │   └── Laboratorio
 │   │
 │   └── Digital-Forensics
 │       │
-│       ├── Topic
-│       ├── Explanation
-│       ├── Process
-│       └── Lab
+│       ├── Tema
+│       ├── Explicación
+│       ├── Proceso
+│       └── Laboratorio
 │
-└── README
+└── README.md
 ```
 
 ## Significado de cada sección
